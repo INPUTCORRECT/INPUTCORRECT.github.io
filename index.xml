@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 11:13:19 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFristArticles</title>
+      <link>/posts/myfristarticles/</link>
+      <pubDate>Wed, 28 Jun 2023 11:13:19 +0800</pubDate>
+      
+      <guid>/posts/myfristarticles/</guid>
+      <description>
+        
+          
+            这是我的第一篇博客 我在配置中遇到了以下问题： (1)cmd指令输入位置错误导致文件创建位置错误。 (2)不知道环境配置位置 我的解决方法： (1)更加仔细一些 (2)经过资料寻找，学习到 系统属性-&amp;gt; 高级-&amp;gt; 环境变量-&amp;gt; 编辑环境-&amp;gt; 保存 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
